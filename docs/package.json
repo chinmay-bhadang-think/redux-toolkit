@@ -5,7 +5,7 @@
     "@types/nanoid": "^2.1.0",
     "@types/react": "^18.0",
     "async-mutex": "^0.3.2",
-    "axios": "^0.20.0",
+    "axios": "^1.6.0",
     "formik": "^2.1.5",
     "graphql-request": "^3.4.0",
     "immutable": "^3.8.2",
