@@ -7232,7 +7232,7 @@ __metadata:
     openapi-types: ^9.1.0
     prettier: ^2.2.1
     pretty-quick: ^3.1.0
-    semver: ^7.3.5
+    semver: ^7.5.2
     swagger2openapi: ^7.0.4
     ts-jest: ^29
     ts-node: ^10.4.0
@@ -26384,7 +26384,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.0.0, semver@npm:^7.5.4":
+"semver@npm:^7.0.0, semver@npm:^7.5.2, semver@npm:^7.5.4":
   version: 7.5.4
   resolution: "semver@npm:7.5.4"
   dependencies:
