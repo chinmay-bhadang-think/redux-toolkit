@@ -60,7 +60,7 @@
     "commander": "^6.2.0",
     "oazapfts": "^4.8.0",
     "prettier": "^2.2.1",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "swagger2openapi": "^7.0.4",
     "typescript": "^5.0.0"
   },
